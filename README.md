@@ -78,7 +78,7 @@ The `A2tUiModule` adds the following routes to your project:
 | Route                      | Description                              |
 | -------------------------- | ---------------------------------------- |
 | `session/sign-in`          | Sign in form                             |
-| `session/sign-up`          | Sign out form                            |
+| `session/sign-out`          | Sign out form                            |
 | `session/reset-password`   | Reset password form                      |
 | `session/update-password`  | Update password for email redirect       |
 
